@@ -10,10 +10,10 @@ ul{
 	overflow: :hidden;
 	background-color: #333;
 	font-family: 'Roboto', sans-serif;
-
 }
+
 ul li{
-	display: :inline-block;/*para colocarlos horizontal*/
+	display: inline-block;/*para colocarlos horizontal*/
 }
 ul li a{
 	display: :inline-block;
